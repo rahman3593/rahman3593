@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Abdul Rahman A</h1>
 <p>Experienced software developer with over 5+ years of expertise in technologies such as .Net, AWS, and Terraform. Passionate about continuous learning and staying up-to-date with the latest advancements in the field, while also actively sharing knowledge with others.</p>
 
-- 🌱 I’m currently learning **AWS, Terraform**
+- 🌱 I’m currently learning **React, AWS, Terraform**
 
 - 👯 I’m looking to collaborate on **ASP.Net Core, AWS, Terraform**
 
